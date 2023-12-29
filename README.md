@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <foreignObject width="100%" height="100%">
     <body xmlns="http://www.w3.org/1999/xhtml">
-      <iframe src="https://example.com" width="100%" height="100%"></iframe>
+      <iframe src="https://raw.githubusercontent.com/wis/wis/80a8d81b83d4f301e8cd8aebefc57d5daec349d8/page.html?sanitize=true" width="100%" height="100%"></iframe>
     </body>
   </foreignObject>
 </svg>
